@@ -1,0 +1,47 @@
+{
+  "instance": "1532c8fc-04dd-410a-9a2b-3c715d0c5aec",
+  "version": 1,
+  "deploymentMethod": "hardlink_activator",
+  "gameId": "stardewvalley",
+  "deploymentTime": 1701306297588,
+  "stagingPath": "C:\\Users\\rwv12\\AppData\\Roaming\\Vortex\\stardewvalley\\mods",
+  "targetPath": "c:\\program files (x86)\\steam\\steamapps\\common\\Stardew Valley\\Mods",
+  "files": [
+    {
+      "relPath": "CustomCompanions\\CustomCompanions.dll",
+      "source": "Custom Companions 3.0.0-8626-3-0-0-1677202603",
+      "target": "",
+      "time": 1677201058000
+    },
+    {
+      "relPath": "CustomCompanions\\CustomCompanions.pdb",
+      "source": "Custom Companions 3.0.0-8626-3-0-0-1677202603",
+      "target": "",
+      "time": 1677201058000
+    },
+    {
+      "relPath": "CustomCompanions\\manifest.json",
+      "source": "Custom Companions 3.0.0-8626-3-0-0-1677202603",
+      "target": "",
+      "time": 1677201059000
+    },
+    {
+      "relPath": "CustomCompanions\\CustomCompanions.deps.json",
+      "source": "Custom Companions 3.0.0-8626-3-0-0-1677202603",
+      "target": "",
+      "time": 1677201058000
+    },
+    {
+      "relPath": "ContentPatcher\\ContentPatcher.dll",
+      "source": "Content Patcher 1.30.3-1915-1-30-3-1698852064",
+      "target": "",
+      "time": 1698855296000
+    },
+    {
+      "relPath": "ContentPatcher\\manifest.json",
+      "source": "Content Patcher 1.30.3-1915-1-30-3-1698852064",
+      "target": "",
+      "time": 1698855296000
+    }
+  ]
+}
