@@ -1,0 +1,23 @@
+{
+    "Format": "1.22.0",
+
+    "Changes": [
+        {
+            "LogName": "Adds Gird to Bus Stop",
+            "Action": "EditMap",
+            "Target": "Maps/BusStop",
+            "MapTiles": [
+                {
+                    "Position": {
+                        "X": 80,
+                        "Y": 60
+                    },
+                    "Layer": "Buildings",
+                    "SetProperties": {
+                        "CustomCompanions": "Spawn 1 DembiKals.GirdCC.Gird"
+                    }
+                }
+            ]
+        }
+    ]
+}
